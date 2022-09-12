@@ -20,13 +20,13 @@ class ItemProductTile extends HTMLElement{
 		h1.innerHTML = this.getAttribute("title");
 		
 		//Create link access details product
-		let a = document.createElement("a");
-		a.classList.add('card--link')
-		a.innerHTML = "Ver Barcode";
+		//let a = document.createElement("a");
+		//a.classList.add('card--link')
+		//a.innerHTML = "Ver Barcode";
 		
 		div.appendChild(img);
 		div.appendChild(h1);
-		div.appendChild(a);
+	//	div.appendChild(a);
 
         let style  = document.createElement('style');
         style.textContent = `
