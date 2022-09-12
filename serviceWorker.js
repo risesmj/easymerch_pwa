@@ -1,4 +1,4 @@
-const staticEasymerch = "dev-coffee-site-v1"
+const staticEasymerch = "dev-easy-merch"
 const assets = [
   "/",
   "/index.html",
