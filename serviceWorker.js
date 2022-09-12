@@ -7,6 +7,7 @@ const assets = [
   "/images/products/fanta-laranja.jpg",
   "/images/products/fanta-uva.jpg",
   "/images/products/coca-cola.jpg",
+  "/components/ItemTileProduct.js",
 ]
 
 self.addEventListener("install", installEvent => {
